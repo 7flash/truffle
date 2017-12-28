@@ -23,7 +23,7 @@
     "truffle-box": "^1.0.3",
     "truffle-contract": "^3.0.1",
     "truffle-core": "^4.0.4",
-    "web3": "^0.20.1",
+    "web3": "github:7flash/web3.js#parity-compatibility-fix",
     "webpack": "^2.5.1",
     "yargs": "^8.0.2"
   },
